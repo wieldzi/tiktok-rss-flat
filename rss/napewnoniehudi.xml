@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>napewnoniehudi TikTok</title>
+    <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/napewnoniehudi.xml</link>
+    <description>OK Boomer, all the latest TikToks from napewnoniehudi</description>
+    <atom:link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/napewnoniehudi.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>napewnoniehudi TikTok</title>
+      <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/napewnoniehudi.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Oct 2023 21:05:33 +0000</lastBuildDate>
+    <item>
+      <title>Banzai! | napewnoniehudi o #Twitch</title>
+      <link>https://tiktok.com/@napewnoniehudi/video/7295326092443798817</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/napewnoniehudi/screenshot_oUQwcxFPRIDhxzBERa4QfxEJleQMBStDPWHjNB~tplv-tiktokx-origin.image.jpg" / &gt; Banzai! | napewnoniehudi o #Twitch</description>
+      <guid isPermaLink="false">https://tiktok.com/@napewnoniehudi/video/7295326092443798817</guid>
+      <pubDate>Sun, 29 Oct 2023 10:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Duchy w ETS | #Twitch #ets #crash #ghosts</title>
+      <link>https://tiktok.com/@napewnoniehudi/video/7295489548748934433</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/napewnoniehudi/screenshot_oMFkRQklPEruDkYBE4IsZByBPwefQ4v1wbcQID~tplv-tiktokx-origin.image.jpg" / &gt; Duchy w ETS | #Twitch #ets #crash #ghosts</description>
+      <guid isPermaLink="false">https://tiktok.com/@napewnoniehudi/video/7295489548748934433</guid>
+      <pubDate>Sun, 29 Oct 2023 21:05:33 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
